@@ -1,4 +1,3 @@
-const Categoria = require("../models/Categorias");
 const db = require("../config/db");
 
 const getCategorias = async (req, res) => {

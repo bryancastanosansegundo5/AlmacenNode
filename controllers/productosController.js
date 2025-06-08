@@ -1,4 +1,3 @@
-const Producto = require("../models/Producto");
 const db = require("../config/db");
 // si falla verificar que el usuario indicado en db.js existe
 // funcion controladora de todos los productos
